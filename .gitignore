@@ -1,0 +1,5 @@
+# Ignore the dump .vscode
+.vscode
+
+# Ignore the build dir
+build
